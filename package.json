@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomascesar8/cine-rolling.git"
+    "url": "git+https://github.com/Adoptsomekids/Cinema-streaming-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomascesar8/cine-rolling/issues"
+    "url": "https://github.com/Adoptsomekids/Cinema-streaming-app"
   },
-  "homepage": "https://github.com/tomascesar8/cine-rolling#readme"
+  "homepage": "https://github.com/Adoptsomekids/Cinema-streaming-app"
 }
